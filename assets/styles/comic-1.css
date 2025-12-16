@@ -130,11 +130,13 @@
         background-image: url(../img/estrellas-bk.png);
         font-family: 'Georgia', serif;
         margin: 0;
+        
     }
     .comic-container {
         grid-template-columns: 1fr;
         margin-bottom: 6%;
         scale: 1;
+        margin-left: 30%;
     }
 
     .estrellas-c1, .estrellas-c2 {
