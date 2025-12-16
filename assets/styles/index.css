@@ -118,4 +118,8 @@
         width: 100%;
     }
     
+    .info-container {
+        scale: 2.0;
+        margin-top: 40%;
+    }
 }
