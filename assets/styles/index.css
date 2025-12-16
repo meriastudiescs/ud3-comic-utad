@@ -121,5 +121,7 @@
     .info-container {
         scale: 2.0;
         margin-top: 40%;
+        width: 30vh;  
     }
+
 }
