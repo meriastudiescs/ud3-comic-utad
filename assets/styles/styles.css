@@ -1,0 +1,77 @@
+/* SERIE */
+
+.ghibli-body {
+    background-image: url('../img/bk-horizontall.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family:  'Georgia', serif;
+}
+
+.left-sid-gb {
+    width: 25%;
+    height: 100vh;
+    margin-top: 3%;
+    margin-left: 2%;
+}
+
+.heading-gb {
+    font-family: 'Georgia', serif;
+    font-size: 2.7em;
+    color: white;
+    font-weight: bold;
+    margin-top: 5%;
+    text-align: center;
+    margin: 0 20px;
+}
+
+.gb-image {
+    width: 110%;
+    height: auto;
+    margin: -20px 0;
+}
+
+.paragraph {
+    font-size: 0.9em;
+    line-height: 1.6;
+    color: white;
+    margin-top: 13%;
+    margin-left : 5%;
+}
+
+.gb-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.right-sid-gb {
+    width: 21%;
+    height: auto;
+}
+
+.column-3 {
+    width: 22%;
+    height:auto;
+}
+
+.column-3-img {
+    width: 90%;
+    height: auto;
+    margin-top: 15%;
+    margin-left: 5%;
+}
+
+
+.column-4 {
+    width: 23%;
+    height: auto;
+    margin-right: 4%;
+}
+
+
+
+
+
+
+
+
